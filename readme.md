@@ -1,13 +1,20 @@
-# COVID Analysis Template
+# Epidemiology of Measles Cases, Operation Allies Welcome
 
-This project is made to help CDC responders start, work with others, produce useful analyses, and hand off to other responders.
+The enclosed repository contains (1) reduced datasets and (2) analyses scripts to support findings reported in Masters et. al (2022).
+
+### Citation and Correspondence
+Manuscript citation here.
 
 ## Getting Started
 
-1. Create a new project using this template, <https://github.com/cdcent/covid_analysis_template/generate>. For public projects, put them in CDCgov; for private and inner, put then in CDCent.
-1. Keep what helps you, ignore and delete the parts that don't help you.
-1. Add access for other users (optional)
-1. Do your work
+**TODOS**
+1. Use of repo
+1. Installation of snakemake and general use of script for sequence assembly.
+1. conda environments to support running the analyses
+1. R markdowns as rendered notebooks
+1. epi models, etc.
+1. Links to NCBI
+1. Links to SRA
 
 ### Location
 
